@@ -22,7 +22,7 @@ then type (sudo nano server.properties) and change the default port example: 255
 then after that you can portforward and give access to your friends
 then to protect your server you can use (https://tcpshield.com/) for DDoS protection but I will not be going into that.
 some extra security will also be IPtables and to allow that port alone through 
-use this https://gist.github.com/Maxopoly/6c925a1f18f9e2f3b9818d1c1582b17e
+use this (https://gist.github.com/Maxopoly/6c925a1f18f9e2f3b9818d1c1582b17e) you might have to use sudo before every command
 
 To connect to the server go to multiplayer and type the IPAddress:PORT
 to find the IP you can type (ip addr) or (ifconfig)
