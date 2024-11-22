@@ -3,7 +3,7 @@
 
 First (sudo apt-get update and sudo apt-get upgrade)
 set the server to a static IP address
-Installing Java Minecraft (sudo wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb) and (sudo apt install ./jdk-21_linux-x64_bin.deb) then type (java -version) this should be Java 21
+Installing Java (sudo wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb) and (sudo apt install ./jdk-21_linux-x64_bin.deb) then type (java -version) this should be Java 21
 the type (sudo mkdir *example*)
 the type (cd *example*) to put you into the directory
 then to download type (sudo wget https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/132/downloads/paper-1.21.1-132.jar) at the time of typing this is 1.21.1 paper
